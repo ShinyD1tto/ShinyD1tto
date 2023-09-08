@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShinyD1tto
-- 👀 I’m interested in System Admisnistration
+- 👀 I’m interested in System Administration
 - 🌱 I’m currently learning Comptia ITF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
